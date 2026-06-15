@@ -60,7 +60,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,gitlab,vscode,postman,anaconda,figma&theme=dark" alt="My Skills - Tools & DBs" />
   </a>
   <a href="https://www.oracle.com/database/">
-    <img src="oracle_icon.png?v=3" width="48" height="48" alt="Oracle Database" align="top" />
+    <img src="oracle_circular_icon.png" width="48" height="48" alt="Oracle Database" align="top" />
   </a>
 </p>
 
