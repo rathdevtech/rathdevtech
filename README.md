@@ -49,20 +49,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,php,html,css,nodejs,express,laravel,vue,vuetify,bootstrap,tailwind,jquery&theme=dark" alt="My Skills - Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,php,html,css,nodejs,express,laravel&theme=dark" alt="My Skills - Languages & Core Frameworks" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,vercel,docker,nginx,postgres,mysql,mongodb,firebase,git,gitlab,vscode,postman,anaconda,figma,jira&theme=dark" alt="My Skills - Build Tools, DBs & Management" />
+    <img src="https://skillicons.dev/icons?i=vue,vuetify,bootstrap,tailwind,jquery,vite,vercel,docker,nginx,postgres&theme=dark" alt="My Skills - Web & Devops" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,gitlab,vscode,postman,anaconda,figma&theme=dark" alt="My Skills - Tools & DBs" />
   </a>
   <a href="https://www.oracle.com/database/">
-    <img src="oracle_icon.png" width="48" height="48" alt="Oracle Database" style="vertical-align: middle; margin-top: -4px;" />
+    <img src="oracle_icon.png" width="48" height="48" alt="Oracle Database" align="top" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.odoo.com/"><img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" /></a>&nbsp;
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>&nbsp;
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" alt="Jira" /></a>
 </p>
 
 ---
