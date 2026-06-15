@@ -59,7 +59,8 @@
 
 <p align="center">
   <a href="https://www.odoo.com/"><img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" /></a>&nbsp;
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>&nbsp;
+  <a href="https://www.oracle.com/database/"><img src="oracle.png" height="28" alt="Oracle Database" /></a>
 </p>
 
 ---
