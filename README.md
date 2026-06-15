@@ -5,7 +5,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;💻+Odoo,+Java+%26+Laravel;👁️+Computer+Vision+Enthusiast;📊+Oracle+%26+SQL+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;💻+Odoo,+Java+%26+Laravel;👁️+Computer+Vision+Enthusiast;📊+Oracle+DB+%26+Firebase" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,8 +32,8 @@
       <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
       <ul>
         <li>🏫 <b>Education:</b> Majoring in Information Technology in Phnom Penh City.</li>
-        <li>💼 <b>Current focus:</b> ERP solutions (Odoo), backend web systems (Java, Laravel, PHP, Node.js), and databases (Oracle, PostgreSQL, MySQL).</li>
-        <li>💡 <b>Interests:</b> API design, microservices, containerization, and computer vision.</li>
+        <li>💼 <b>Current focus:</b> ERP solutions (Odoo), full-stack web architectures (Java, Express.js, Laravel), and databases (Oracle DB, Firebase, PostgreSQL).</li>
+        <li>💡 <b>Interests:</b> UI/UX design (Figma), agile project tracking (Jira), build optimization (Vite), and cloud deployments (Vercel).</li>
         <li>⚡ <b>Fun Fact:</b> I turn ideas into automated scripts before they have a chance to become manual work.</li>
       </ul>
     </td>
@@ -49,7 +49,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,nodejs,laravel,vue,bootstrap,tailwind,postgres,mysql,oracle,mongodb,docker,nginx,linux,git,gitlab,vscode,postman&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,php,html,css,nodejs,express,laravel,vue,vuetify,bootstrap,tailwind,jquery&theme=dark" alt="My Skills - Languages & Frameworks" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,vercel,docker,nginx,postgres,mysql,oracle,mongodb,firebase,git,gitlab,vscode,postman,anaconda,figma,jira&theme=dark" alt="My Skills - Build Tools, DBs & Management" />
   </a>
 </p>
 
