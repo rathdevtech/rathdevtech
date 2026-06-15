@@ -5,7 +5,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;💻+Django,+Odoo+%26+Laravel;👁️+Computer+Vision+Enthusiast;🎨+Modern+UI/UX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;💻+Odoo,+Java+%26+Laravel;👁️+Computer+Vision+Enthusiast;📊+Oracle+%26+SQL+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
       <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
       <ul>
         <li>🏫 <b>Education:</b> Majoring in Information Technology in Phnom Penh City.</li>
-        <li>💼 <b>Current focus:</b> ERP solutions (Odoo), backend web services (Django, Laravel, PHP, Node.js), and desktop vision applications.</li>
+        <li>💼 <b>Current focus:</b> ERP solutions (Odoo), backend web systems (Java, Laravel, PHP, Node.js), and databases (Oracle, PostgreSQL, MySQL).</li>
         <li>💡 <b>Interests:</b> API design, microservices, containerization, and computer vision.</li>
         <li>⚡ <b>Fun Fact:</b> I turn ideas into automated scripts before they have a chance to become manual work.</li>
       </ul>
@@ -49,14 +49,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,php,html,css,cs,django,nodejs,laravel,dotnet,vue,bootstrap,tailwind,postgres,mongodb,sqlite,docker,nginx,linux,git,gitlab,vscode,postman&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,nodejs,laravel,vue,bootstrap,tailwind,postgres,mysql,oracle,mongodb,docker,nginx,linux,git,gitlab,vscode,postman&theme=dark" alt="My Skills" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.odoo.com/"><img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" /></a>&nbsp;
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>&nbsp;
-  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET Core" /></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>
 </p>
 
 ---
