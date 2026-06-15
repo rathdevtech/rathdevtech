@@ -11,10 +11,10 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://instagram.com/your_username" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="https://youtube.com/your_username" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>&nbsp;
-  <a href="https://linkedin.com/in/your_username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://t.me/your_username" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.facebook.com/rathdev2025/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+  <a href="https://www.youtube.com/@rath_dev" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sarath-orn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://t.me/rathdev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <p align="center">
