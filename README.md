@@ -53,14 +53,16 @@
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,vercel,docker,nginx,postgres,mysql,oracle,mongodb,firebase,git,gitlab,vscode,postman,anaconda,figma,jira&theme=dark" alt="My Skills - Build Tools, DBs & Management" />
+    <img src="https://skillicons.dev/icons?i=vite,vercel,docker,nginx,postgres,mysql,mongodb,firebase,git,gitlab,vscode,postman,anaconda,figma,jira&theme=dark" alt="My Skills - Build Tools, DBs & Management" />
+  </a>
+  <a href="https://www.oracle.com/database/">
+    <img src="oracle_icon.png" width="48" height="48" alt="Oracle Database" style="vertical-align: middle; margin-top: -4px;" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.odoo.com/"><img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" /></a>&nbsp;
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>&nbsp;
-  <a href="https://www.oracle.com/database/"><img src="oracle.png" height="28" alt="Oracle Database" /></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>
 </p>
 
 ---
