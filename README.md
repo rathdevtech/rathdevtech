@@ -21,6 +21,26 @@
   <img src="https://komarev.com/ghpvc/?username=rathdevtech&color=cba6f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rathdevtech&show_icons=true&theme=catppuccin&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&theme=catppuccin" alt="rathdevtech's GitHub streak" height="195" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathdevtech&layout=compact&theme=catppuccin&langs_count=8" alt="rathdevtech's Top Languages" width="80%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🔮 About Me
@@ -79,29 +99,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rathdevtech&theme=catppuccin&column=5" alt="GitHub Trophies" width="100%" />
   </a>
 </p>
-
----
-
-## 📊 Live Metrics & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rathdevtech&show_icons=true&theme=catppuccin&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&theme=catppuccin" alt="rathdevtech's GitHub streak" height="195" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathdevtech&layout=compact&theme=catppuccin&langs_count=8" alt="rathdevtech's Top Languages" width="80%" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
