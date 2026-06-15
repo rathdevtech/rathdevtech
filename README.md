@@ -1,12 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=1e1e2e&height=180&section=header&text=SARATHORN&fontSize=50&fontAlignY=40&animation=twinkle&theme=mocha&fontColor=cba6f7" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/type=soft&color=1e1e2e&height=180&section=header&text=RATH%20KH&fontSize=50&fontAlignY=40&animation=twinkle&theme=mocha&fontColor=cba6f7" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=🚀+Python+Developer;👁️+Computer+Vision+Enthusiast;💻+Desktop+App+Craftsman;🎨+CustomTkinter+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;💻+Django,+Odoo+%26+Laravel;👁️+Computer+Vision+Enthusiast;🎨+Modern+UI/UX+Designer" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://instagram.com/your_username" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://youtube.com/your_username" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>&nbsp;
+  <a href="https://linkedin.com/in/your_username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://t.me/your_username" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <p align="center">
@@ -20,11 +28,12 @@
 <table border="0">
   <tr>
     <td width="65%" valign="top">
-      <p>I am a passionate software developer specializing in building <b>intelligent desktop applications</b> and <b>computer vision pipelines</b>. I focus on writing clean, modular Python code and developing modern UIs that make complex workflows feel seamless.</p>
+      <p>Hello! My name is <b>Sarath Orn (Rath KH)</b>. I am a 22-year-old Information Technology major and software developer currently living in Phnom Penh City (originally from Siem Reap province), Cambodia.</p>
+      <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
       <ul>
-        <li>🏫 <b>Active Project:</b> <a href="https://github.com/rathdevtech/aga-class-attendance">Student Face Recognition Attendance Management System</a>.</li>
-        <li>🔬 <b>Key Techs:</b> Deep Face Recognition (InsightFace, OpenCV), CustomTkinter GUI layouts, and robust SQLite local databases.</li>
-        <li>💡 <b>Goal:</b> Bridging the gap between edge AI models and delightful desktop user experiences.</li>
+        <li>🏫 <b>Education:</b> Majoring in Information Technology in Phnom Penh City.</li>
+        <li>💼 <b>Current focus:</b> ERP solutions (Odoo), backend web services (Django, Laravel, PHP, Node.js), and desktop vision applications.</li>
+        <li>💡 <b>Interests:</b> API design, microservices, containerization, and computer vision.</li>
         <li>⚡ <b>Fun Fact:</b> I turn ideas into automated scripts before they have a chance to become manual work.</li>
       </ul>
     </td>
@@ -40,8 +49,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlite,mysql,opencv,pandas,numpy,git,github,vscode,html,css,js,windows&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,js,php,html,css,cs,django,nodejs,laravel,dotnet,vue,bootstrap,tailwind,postgres,mongodb,sqlite,docker,nginx,linux,git,gitlab,vscode,postman&theme=dark" alt="My Skills" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.odoo.com/"><img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" /></a>&nbsp;
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET Core" /></a>
 </p>
 
 ---
@@ -79,19 +94,13 @@
 
 ---
 
-## 📬 Telemetry & Contact
+## 🦖 Offline Dino Game
 
 <p align="center">
-  <a href="mailto:raths8546@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raths8546%40gmail.com-cba6f7?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rathdevtech">
-    <img src="https://img.shields.io/badge/GitHub-rathdevtech-cba6f7?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub" />
-  </a>
+  <img src="https://raw.githubusercontent.com/kylelobo/The-Documentation-Compendium/master/images/dino.gif" alt="Dino Game" width="100%" />
 </p>
 
-<br/>
+---
 
 <p align="right">
   <sub><i>Design crafted with ✨ and 💜 by Antigravity</i></sub>
