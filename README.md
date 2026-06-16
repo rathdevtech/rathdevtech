@@ -20,10 +20,10 @@
 
 <table border="0">
   <tr>
-    <td width="25%" align="center" valign="top">
+    <td width="30%" align="center" valign="top">
       <img src="profile.jpg" width="100%" style="border-radius: 12px; border: 2px solid #cba6f7;" alt="Sarath Orn" />
     </td>
-    <td width="55%" valign="top" style="padding: 0 10px;">
+    <td width="70%" valign="top" style="padding-left: 20px;">
       <h3>👋 Welcome to my digital space!</h3>
       <p>Hello! My name is <b>Sarath Orn (Rath KH)</b>. I am a 22-year-old Information Technology major and software developer currently living in Phnom Penh City (originally from Siem Reap province), Cambodia.</p>
       <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
@@ -33,9 +33,10 @@
         <li>💡 <b>Interests:</b> UI/UX design (Figma), agile project tracking (Jira), build optimization (Vite), and cloud deployments (Vercel).</li>
         <li>⚡ <b>Fun Fact:</b> I turn ideas into automated scripts before they have a chance to become manual work.</li>
       </ul>
-    </td>
-    <td width="20%" align="center" valign="top">
-      <img src="https://github.com/ABSphreak/ABSphreak/raw/master/play.gif" width="100%" style="border-radius: 12px; border: 2px solid #cba6f7;" alt="Developer GIF" />
+      <p align="center">
+        <br/>
+        <img src="https://github.com/ABSphreak/ABSphreak/raw/master/play.gif" width="160px" style="border-radius: 10px;" alt="Developer GIF" />
+      </p>
     </td>
   </tr>
 </table>
