@@ -2,13 +2,6 @@
   <img src="oracle_banner.png" width="100%" alt="Header Banner" />
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;💻+Odoo,+Java+%26+Laravel;👁️+Computer+Vision+Enthusiast;📊+Oracle+DB+%26+Firebase" alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.facebook.com/rathdev2025/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
