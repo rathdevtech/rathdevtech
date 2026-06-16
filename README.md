@@ -131,17 +131,17 @@ Here is a checklist of the official GitHub achievements I am working towards unl
 
 ## 📊 Live Metrics & Activity
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="49%">
       <a href="https://github.com/rathdevtech">
-        <img src="https://github-stats-extended.vercel.app/api?username=rathdevtech&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&show_icons=true&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
+        <img src="https://github-stats-extended.vercel.app/api?username=rathdevtech&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&show_icons=true&count_private=true" alt="rathdevtech's GitHub stats" width="100%" />
       </a>
     </td>
-    <td width="15"></td>
-    <td align="center" valign="top">
+    <td width="2%"></td>
+    <td align="center" valign="top" width="49%">
       <a href="https://github.com/rathdevtech">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&background=1e1e2e&border=313244&stroke=313244&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=a6e3a1&dates=9399b2" alt="rathdevtech's GitHub streak" height="195" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&background=1e1e2e&border=313244&stroke=313244&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=a6e3a1&dates=9399b2" alt="rathdevtech's GitHub streak" width="100%" />
       </a>
     </td>
   </tr>
