@@ -133,17 +133,17 @@ Here is a checklist of the official GitHub achievements I am working towards unl
 
 <p align="center">
   <a href="https://github.com/rathdevtech">
-    <img src="https://github-stats-extended.vercel.app/api?username=rathdevtech&show_icons=true&theme=catppuccin&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
+    <img src="https://github-stats-extended.vercel.app/api?username=rathdevtech&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&show_icons=true&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/rathdevtech">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&theme=catppuccin" alt="rathdevtech's GitHub streak" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&background=1e1e2e&border=313244&stroke=313244&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=a6e3a1&dates=9399b2" alt="rathdevtech's GitHub streak" height="195" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rathdevtech">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rathdevtech&layout=compact&theme=catppuccin&langs_count=8" alt="rathdevtech's Top Languages" width="380" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rathdevtech&layout=compact&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&langs_count=8" alt="rathdevtech's Top Languages" width="380" />
   </a>
 </p>
 
