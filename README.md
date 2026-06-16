@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/ABSphreak/ABSphreak/raw/master/play.gif" width="160px" alt="Developer GIF" />
+      <img src="profile.png" width="100%" style="border-radius: 10px;" alt="Sarath Orn" />
     </td>
   </tr>
 </table>
