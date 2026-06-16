@@ -90,19 +90,19 @@ Here is a checklist of the official GitHub achievements I am working towards unl
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.png" width="60" alt="Pull Shark" /><br/>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark" /><br/>
       <strong>Pull Shark</strong><br/>
       <small>Merge a pull request</small><br/>
       <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.png" width="60" alt="YOLO" /><br/>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" alt="YOLO" /><br/>
       <strong>YOLO</strong><br/>
       <small>Merge without review</small><br/>
       <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.githubassets.com/images/modules/profile/badge/quickdraw-default.png" width="60" alt="Quickdraw" /><br/>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw" /><br/>
       <strong>Quickdraw</strong><br/>
       <small>Close PR/Issue in 5m</small><br/>
       <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
@@ -110,13 +110,13 @@ Here is a checklist of the official GitHub achievements I am working towards unl
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.githubassets.com/images/modules/profile/badge/starstruck-default.png" width="60" alt="Starstruck" /><br/>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" alt="Starstruck" /><br/>
       <strong>Starstruck</strong><br/>
       <small>Get 16 repository stars</small><br/>
       <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.githubassets.com/images/modules/profile/badge/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" /><br/>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" /><br/>
       <strong>Pair Extraordinaire</strong><br/>
       <small>Co-author a commit</small><br/>
       <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
