@@ -57,28 +57,34 @@
 
 ## 🏆 GitHub Milestones & Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=rathdevtech&theme=onedark&column=5&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  </a>
+</p>
+
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td align="center" valign="middle" width="38%">
+    <td align="center" valign="middle" width="23.5%">
       <a href="https://github.com/rathdevtech">
-        <img src="https://img.shields.io/github/followers/rathdevtech?label=Followers&style=for-the-badge&labelColor=313244&color=b4befe&logo=github&logoColor=b4befe" alt="Followers" />
+        <img src="https://img.shields.io/github/followers/rathdevtech?label=Followers&style=for-the-badge&labelColor=313244&color=b4befe&logo=github&logoColor=b4befe" alt="Followers" width="100%" />
       </a>
-      <br/><br/>
-      <a href="https://github.com/rathdevtech">
-        <img src="https://img.shields.io/github/repos/rathdevtech?label=Repositories&style=for-the-badge&labelColor=313244&color=a6e3a1&logo=github&logoColor=a6e3a1" alt="Repositories" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/rathdevtech/rathdevtech">
-        <img src="https://img.shields.io/github/commit-activity/y/rathdevtech/rathdevtech?label=Commit%20Activity&style=for-the-badge&labelColor=313244&color=f9e2af&logo=github&logoColor=f9e2af" alt="Commit Activity" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Joined-May%202026-cba6f7?style=for-the-badge&labelColor=313244&color=cba6f7&logo=github&logoColor=cba6f7" alt="Joined Date" />
     </td>
-    <td width="4%"></td>
-    <td align="center" valign="middle" width="58%">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy-fork-two.vercel.app/?username=rathdevtech&theme=onedark&column=3&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+    <td width="2%"></td>
+    <td align="center" valign="middle" width="23.5%">
+      <a href="https://github.com/rathdevtech">
+        <img src="https://img.shields.io/github/repos/rathdevtech?label=Repositories&style=for-the-badge&labelColor=313244&color=a6e3a1&logo=github&logoColor=a6e3a1" alt="Repositories" width="100%" />
       </a>
+    </td>
+    <td width="2%"></td>
+    <td align="center" valign="middle" width="23.5%">
+      <a href="https://github.com/rathdevtech/rathdevtech">
+        <img src="https://img.shields.io/github/commit-activity/y/rathdevtech/rathdevtech?label=Commit%20Activity&style=for-the-badge&labelColor=313244&color=f9e2af&logo=github&logoColor=f9e2af" alt="Commit Activity" width="100%" />
+      </a>
+    </td>
+    <td width="2%"></td>
+    <td align="center" valign="middle" width="23.5%">
+      <img src="https://img.shields.io/badge/Joined-May%202026-cba6f7?style=for-the-badge&labelColor=313244&color=cba6f7&logo=github&logoColor=cba6f7" alt="Joined Date" width="100%" />
     </td>
   </tr>
 </table>
