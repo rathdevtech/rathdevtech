@@ -24,9 +24,9 @@
       <img src="profile_style.jpg" width="100%" alt="Sarath Orn" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
-      <h2 style="color: #1e3a8a; margin-top: 0; margin-bottom: 10px;">Web Developer & YouTuber.</h2>
-      <p><i>Nowadays, I am doing as a Web Developer and also YouTuber to make other videos to share what I have to all people who need.</i></p>
-      
+      Web Developer & YouTuber.
+      Nowadays, I am doing as a Web Developer and also YouTuber to make other videos to share what I have to all people who need.
+
       <br/>
 
       <table border="0" width="100%">
