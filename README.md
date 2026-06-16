@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="profile.png" width="100%" style="border-radius: 10px;" alt="Sarath Orn" />
+      <img src="profile.jpg" width="100%" style="border-radius: 10px;" alt="Sarath Orn" />
     </td>
   </tr>
 </table>
