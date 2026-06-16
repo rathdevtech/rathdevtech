@@ -18,12 +18,13 @@
 
 ## 🔮 About Me
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="top">
       <img src="profile_new.png" width="100%" alt="RathDev (Sarath Orn)" />
     </td>
-    <td width="70%" valign="top" style="padding-left: 20px;">
+    <td width="5%"></td>
+    <td width="65%" valign="top">
       <h3>RathDev | Full-Stack Software Developer</h3>
       <p>Hello, I'm RathDev (Sarath Orn), a passionate Full-Stack Software Developer from Cambodia with experience in web development, database management, and software engineering. I enjoy building scalable and efficient applications, exploring new technologies, and solving real-world problems through innovative software solutions.</p>
       <p>With expertise spanning both front-end and back-end development, I am committed to writing clean, maintainable code and continuously improving my technical skills. My goal is to create impactful digital products that deliver exceptional user experiences and business value.</p>
@@ -44,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=vue,vuetify,bootstrap,tailwind,jquery,vite,vercel,docker,nginx,postgres&theme=dark" alt="My Skills - Web & Devops" />
   </a>
   <br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,gitlab,vscode,postman,anaconda,figma&theme=dark" alt="My Skills - Tools & DBs" /></a>&nbsp;<a href="https://www.oracle.com/database/"><img src="oracle_red_icon.png" width="48" height="48" alt="Oracle Database" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,firebase,git,gitlab,vscode,postman,anaconda,figma&theme=dark" alt="My Skills - Tools & DBs" /></a>
 </p>
 
 <p align="center">
@@ -164,7 +165,7 @@ Here is a checklist of the official GitHub achievements I am working towards unl
 ## 🦖 Offline Dino Game
 
 <p align="center">
-  <img src="dino.gif" alt="Dino Game" width="100%" />
+  <img src="dino.gif" alt="Dino Game" />
 </p>
 
 ---
