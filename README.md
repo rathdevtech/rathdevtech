@@ -24,31 +24,17 @@
       <img src="profile.jpg" width="100%" style="border-radius: 12px; border: 2px solid #cba6f7;" alt="Sarath Orn" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
-      <h2 style="margin-top: 0; color: #cba6f7;">👋 Hello! I'm Sarath Orn (Rath KH)</h2>
-      <p>I am a 22-year-old Information Technology major and software developer currently living in Phnom Penh City (originally from Siem Reap province), Cambodia.</p>
+      <h3>👋 Welcome to my digital space!</h3>
+      <p>Hello! My name is <b>Sarath Orn (Rath KH)</b>. I am a 22-year-old Information Technology major and software developer currently living in Phnom Penh City (originally from Siem Reap province), Cambodia.</p>
       <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
-      
-      <br/>
-      
-      <h4 style="color: #cba6f7;">🚀 Quick Overview</h4>
-      <table border="0">
-        <tr>
-          <td valign="top">🏫</td>
-          <td><b>Education:</b> Majoring in Information Technology in Phnom Penh City.</td>
-        </tr>
-        <tr>
-          <td valign="top">💼</td>
-          <td><b>Current Focus:</b> ERP solutions (<code>Odoo</code>), full-stack web architectures (<code>Java</code>, <code>Express.js</code>, <code>Laravel</code>), and databases (<code>Oracle DB</code>, <code>Firebase</code>, <code>PostgreSQL</code>).</td>
-        </tr>
-        <tr>
-          <td valign="top">💡</td>
-          <td><b>Interests:</b> UI/UX design (<code>Figma</code>), agile project tracking (<code>Jira</code>), build optimization (<code>Vite</code>), and cloud deployments (<code>Vercel</code>).</td>
-        </tr>
-        <tr>
-          <td valign="top">⚡</td>
-          <td><b>Fun Fact:</b> I turn ideas into automated scripts before they have a chance to become manual work.</td>
-        </tr>
-      </table>
+
+      <h4>🚀 Quick Overview</h4>
+      <ul>
+        <li>🏫 <b>Education:</b> Majoring in Information Technology in Phnom Penh City.</li>
+        <li>💼 <b>Current Focus:</b> ERP solutions (Odoo), full-stack web architectures (Java, Express.js, Laravel), and databases (Oracle DB, Firebase, PostgreSQL).</li>
+        <li>💡 <b>Interests:</b> UI/UX design (Figma), agile project tracking (Jira), build optimization (Vite), and cloud deployments (Vercel).</li>
+        <li>⚡ <b>Fun Fact:</b> I turn ideas into automated scripts before they have a chance to become manual work.</li>
+      </ul>
     </td>
   </tr>
 </table>
