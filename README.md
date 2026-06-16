@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=1e1e2e&height=180&section=header&text=RATH%20KH&fontSize=50&fontAlignY=40&animation=twinkle&theme=mocha&fontColor=cba6f7" width="100%" alt="Header Banner" />
+  <img src="oracle_banner.png" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Typing SVG -->
