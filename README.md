@@ -149,7 +149,7 @@ Here is a checklist of the official GitHub achievements I am working towards unl
     <td colspan="3" align="center" valign="top">
       <br/>
       <a href="https://github.com/rathdevtech">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rathdevtech&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&langs_count=8" alt="rathdevtech's Top Languages" width="380" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rathdevtech&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&langs_count=8" alt="rathdevtech's Top Languages" width="100%" />
       </a>
     </td>
   </tr>
