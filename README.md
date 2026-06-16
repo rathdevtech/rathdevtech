@@ -16,6 +16,23 @@
 
 ---
 
+## 🔮 About Me
+
+<table border="0">
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="profile_new.png" width="100%" alt="RathDev (Sarath Orn)" />
+    </td>
+    <td width="70%" valign="top" style="padding-left: 20px;">
+      <h3>RathDev | Full-Stack Software Developer</h3>
+      <p>Hello, I'm RathDev (Sarath Orn), a passionate Full-Stack Software Developer from Cambodia with experience in web development, database management, and software engineering. I enjoy building scalable and efficient applications, exploring new technologies, and solving real-world problems through innovative software solutions.</p>
+      <p>With expertise spanning both front-end and back-end development, I am committed to writing clean, maintainable code and continuously improving my technical skills. My goal is to create impactful digital products that deliver exceptional user experiences and business value.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Universe
 
 <p align="center">
