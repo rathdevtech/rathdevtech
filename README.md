@@ -21,7 +21,7 @@
 <table border="0">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="profile.jpg" width="100%" style="border-radius: 12px; border: 2px solid #cba6f7;" alt="Sarath Orn" />
+      <img src="profile_new.png" width="100%" style="border-radius: 12px; border: 2px solid #cba6f7;" alt="Sarath Orn" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
       <blockquote>
