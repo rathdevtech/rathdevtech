@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=rathdevtech&theme=catppuccin&column=5" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=rathdevtech&theme=onedark&column=5" alt="GitHub Trophies" width="100%" />
   </a>
 </p>
 
