@@ -21,22 +21,36 @@
 <table border="0">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="profile_new.png" width="100%" style="border-radius: 12px; border: 2px solid #cba6f7;" alt="Sarath Orn" />
+      <img src="profile_new.png" width="100%" alt="Sarath Orn" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
-      <blockquote>
-        <h3 style="margin-top: 0;">👋 Welcome to my digital space!</h3>
-        <p>Hello! My name is <b>Sarath Orn (Rath KH)</b>. I am a 22-year-old Information Technology major and software developer currently living in Phnom Penh City (originally from Siem Reap province), Cambodia.</p>
-        <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
-      </blockquote>
+      <h2 style="color: #1e3a8a; margin-top: 0; margin-bottom: 10px;">Web Developer & YouTuber.</h2>
+      <p><i>Nowadays, I am doing as a Web Developer and also YouTuber to make other videos to share what I have to all people who need.</i></p>
       
-      <h4>🚀 Quick Overview</h4>
-      <ul>
-        <li>🏫 <b>Education:</b> Majoring in Information Technology in Phnom Penh City.</li>
-        <li>💼 <b>Current Focus:</b> ERP solutions (Odoo), full-stack web architectures (Java, Express.js, Laravel), and databases (Oracle DB, Firebase, PostgreSQL).</li>
-        <li>💡 <b>Interests:</b> UI/UX design (Figma), agile project tracking (Jira), build optimization (Vite), and cloud deployments (Vercel).</li>
-        <li>⚡ <b>Fun Fact:</b> I turn ideas into automated scripts before they have a chance to become manual work.</li>
-      </ul>
+      <br/>
+
+      <table border="0" width="100%">
+        <tr>
+          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Birthday:</b> 09 March 2002</td>
+          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Age:</b> 22</td>
+        </tr>
+        <tr>
+          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Website:</b> sarath-website.vercel.app</td>
+          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Degree:</b> Associate Degree</td>
+        </tr>
+        <tr>
+          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Phone:</b> +855 885 178 433</td>
+          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Email:</b> sarathorn91@gmail.com</td>
+        </tr>
+        <tr>
+          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>City:</b> Phnom Penh, Cambodia</td>
+          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Freelance:</b> Available</td>
+        </tr>
+      </table>
+
+      <br/>
+
+      <p>For all informations here, It is all of my real informations and you can use it to contact me. Don't scared to contact me. Because, I am also a person that friendly for every people who wants to make communication with me.</p>
     </td>
   </tr>
 </table>
