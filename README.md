@@ -21,7 +21,7 @@
 <table border="0">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="profile_new.png" width="100%" alt="Sarath Orn" />
+      <img src="profile_style.jpg" width="100%" alt="Sarath Orn" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
       <h2 style="color: #1e3a8a; margin-top: 0; margin-bottom: 10px;">Web Developer & YouTuber.</h2>
@@ -31,26 +31,26 @@
 
       <table border="0" width="100%">
         <tr>
-          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Birthday:</b> 09 March 2002</td>
-          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Age:</b> 22</td>
+          <td width="50%">&gt; <b>Birthday:</b> 09 March 2002</td>
+          <td width="50%">&gt; <b>Age:</b> 21</td>
         </tr>
         <tr>
-          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Website:</b> sarath-website.vercel.app</td>
-          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Degree:</b> Associate Degree</td>
+          <td width="50%">&gt; <b>Website:</b> www.example.com</td>
+          <td width="50%">&gt; <b>Degree:</b> Associate Degree</td>
         </tr>
         <tr>
-          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Phone:</b> +855 885 178 433</td>
-          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Email:</b> sarathorn91@gmail.com</td>
+          <td width="50%">&gt; <b>Phone:</b> +855 885 178 433</td>
+          <td width="50%">&gt; <b>Email:</b> sarathorn91@gmail.com</td>
         </tr>
         <tr>
-          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>City:</b> Phnom Penh, Cambodia</td>
-          <td width="50%"><span style="color: #38bdf8;">&gt;</span> <b>Freelance:</b> Available</td>
+          <td width="50%">&gt; <b>City:</b> Phnom Penh, Cambodia</td>
+          <td width="50%">&gt; <b>Freelance:</b> Available</td>
         </tr>
       </table>
 
       <br/>
 
-      <p>For all informations here, It is all of my real informations and you can use it to contact me. Don't scared to contact me. Because, I am also a person that friendly for every people who wants to make communication with me.</p>
+      <p>For all informations here, It is all of my real informations and you can use it to contact me. Don't scared to contact me. Because, I am also a preson that friendly for every people who wants to make communication with me.</p>
     </td>
   </tr>
 </table>
