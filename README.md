@@ -59,9 +59,35 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rathdevtech&theme=catppuccin&column=5" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=rathdevtech&theme=catppuccin&column=5" alt="GitHub Trophies" width="100%" />
   </a>
 </p>
+
+<!-- Profile Milestone Badges -->
+<p align="center">
+  <a href="https://github.com/rathdevtech">
+    <img src="https://img.shields.io/github/followers/rathdevtech?color=cba6f7&style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  </a>&nbsp;
+  <a href="https://github.com/rathdevtech">
+    <img src="https://img.shields.io/github/repos/rathdevtech?color=cba6f7&style=for-the-badge&logo=github&label=Repositories" alt="Repositories" />
+  </a>&nbsp;
+  <a href="https://github.com/rathdevtech/rathdevtech">
+    <img src="https://img.shields.io/github/commit-activity/y/rathdevtech/rathdevtech?color=cba6f7&style=for-the-badge&logo=github&label=Commit%20Activity" alt="Commit Activity" />
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Joined-May%202026-cba6f7?style=for-the-badge&logo=github&label=Joined" alt="Joined Date" />
+</p>
+
+### 🎯 Official GitHub Achievements Quest
+
+Here is a checklist of the official GitHub achievements I am working towards unlocking on my profile:
+
+| Achievement | Target / Tier | How to Unlock | Status |
+| :---: | :--- | :--- | :---: |
+| <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.png" width="45" alt="Pull Shark" /> | **Pull Shark** (Default) | Merge a pull request in any repository | ⏳ In Progress |
+| <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.png" width="45" alt="YOLO" /> | **YOLO** (Default) | Merge a pull request without code review | ⏳ In Progress |
+| <img src="https://github.githubassets.com/images/modules/profile/badge/quickdraw-default.png" width="45" alt="Quickdraw" /> | **Quickdraw** (Default) | Close an issue or PR within 5 minutes of opening | ⏳ In Progress |
+| <img src="https://github.githubassets.com/images/modules/profile/badge/starstruck-default.png" width="45" alt="Starstruck" /> | **Starstruck** (Default) | Have a repository that reaches 16 stars | ⏳ In Progress |
+| <img src="https://github.githubassets.com/images/modules/profile/badge/pair-extraordinaire-default.png" width="45" alt="Pair Extraordinaire" /> | **Pair Extraordinaire** | Co-author a commit with another contributor | ⏳ In Progress |
 
 ---
 
@@ -71,7 +97,7 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rathdevtech&show_icons=true&theme=catppuccin&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
+        <img src="https://github-stats-extended.vercel.app/api?username=rathdevtech&show_icons=true&theme=catppuccin&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&theme=catppuccin" alt="rathdevtech's GitHub streak" height="195" />
@@ -80,7 +106,7 @@
     <tr>
       <td colspan="2" align="center">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathdevtech&layout=compact&theme=catppuccin&langs_count=8" alt="rathdevtech's Top Languages" width="80%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rathdevtech&layout=compact&theme=catppuccin&langs_count=8" alt="rathdevtech's Top Languages" width="80%" />
       </td>
     </tr>
   </table>
@@ -91,7 +117,7 @@
 ## 🦖 Offline Dino Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kylelobo/The-Documentation-Compendium/master/images/dino.gif" alt="Dino Game" width="100%" />
+  <img src="dino.gif" alt="Dino Game" width="100%" />
 </p>
 
 ---
