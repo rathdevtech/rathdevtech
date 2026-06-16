@@ -66,51 +66,103 @@
 <!-- Profile Milestone Badges -->
 <p align="center">
   <a href="https://github.com/rathdevtech">
-    <img src="https://img.shields.io/github/followers/rathdevtech?color=cba6f7&style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/rathdevtech?label=Followers&style=flat-square&labelColor=313244&color=b4befe&logo=github&logoColor=b4befe" alt="Followers" />
   </a>&nbsp;
   <a href="https://github.com/rathdevtech">
-    <img src="https://img.shields.io/github/repos/rathdevtech?color=cba6f7&style=for-the-badge&logo=github&label=Repositories" alt="Repositories" />
+    <img src="https://img.shields.io/github/repos/rathdevtech?label=Repositories&style=flat-square&labelColor=313244&color=a6e3a1&logo=github&logoColor=a6e3a1" alt="Repositories" />
   </a>&nbsp;
   <a href="https://github.com/rathdevtech/rathdevtech">
-    <img src="https://img.shields.io/github/commit-activity/y/rathdevtech/rathdevtech?color=cba6f7&style=for-the-badge&logo=github&label=Commit%20Activity" alt="Commit Activity" />
+    <img src="https://img.shields.io/github/commit-activity/y/rathdevtech/rathdevtech?label=Commit%20Activity&style=flat-square&labelColor=313244&color=f9e2af&logo=github&logoColor=f9e2af" alt="Commit Activity" />
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/Joined-May%202026-cba6f7?style=for-the-badge&logo=github&label=Joined" alt="Joined Date" />
+  <img src="https://img.shields.io/badge/Joined-May%202026-cba6f7?style=flat-square&labelColor=313244&color=cba6f7&logo=github&logoColor=cba6f7" alt="Joined Date" />
 </p>
 
 ### 🎯 Official GitHub Achievements Quest
 
 Here is a checklist of the official GitHub achievements I am working towards unlocking on my profile:
 
-| Achievement | Target / Tier | How to Unlock | Status |
-| :---: | :--- | :--- | :---: |
-| <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.png" width="45" alt="Pull Shark" /> | **Pull Shark** (Default) | Merge a pull request in any repository | ⏳ In Progress |
-| <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.png" width="45" alt="YOLO" /> | **YOLO** (Default) | Merge a pull request without code review | ⏳ In Progress |
-| <img src="https://github.githubassets.com/images/modules/profile/badge/quickdraw-default.png" width="45" alt="Quickdraw" /> | **Quickdraw** (Default) | Close an issue or PR within 5 minutes of opening | ⏳ In Progress |
-| <img src="https://github.githubassets.com/images/modules/profile/badge/starstruck-default.png" width="45" alt="Starstruck" /> | **Starstruck** (Default) | Have a repository that reaches 16 stars | ⏳ In Progress |
-| <img src="https://github.githubassets.com/images/modules/profile/badge/pair-extraordinaire-default.png" width="45" alt="Pair Extraordinaire" /> | **Pair Extraordinaire** | Co-author a commit with another contributor | ⏳ In Progress |
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="15%">Badge</th>
+      <th align="left" width="25%">Achievement</th>
+      <th align="left" width="45%">Quest Description</th>
+      <th align="center" width="15%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.png" width="45" alt="Pull Shark" />
+      </td>
+      <td><strong>Pull Shark</strong></td>
+      <td>Merge pull requests in any repository (starts at 2 PRs)</td>
+      <td align="center">
+        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.png" width="45" alt="YOLO" />
+      </td>
+      <td><strong>YOLO</strong></td>
+      <td>Merge a pull request without code review</td>
+      <td align="center">
+        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/badge/quickdraw-default.png" width="45" alt="Quickdraw" />
+      </td>
+      <td><strong>Quickdraw</strong></td>
+      <td>Close an issue or PR within 5 minutes of opening</td>
+      <td align="center">
+        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/badge/starstruck-default.png" width="45" alt="Starstruck" />
+      </td>
+      <td><strong>Starstruck</strong></td>
+      <td>Have a repository that reaches 16 stars</td>
+      <td align="center">
+        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/badge/pair-extraordinaire-default.png" width="45" alt="Pair Extraordinaire" />
+      </td>
+      <td><strong>Pair Extraordinaire</strong></td>
+      <td>Co-author a commit with another contributor</td>
+      <td align="center">
+        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 📊 Live Metrics & Activity
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=rathdevtech&show_icons=true&theme=catppuccin&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&theme=catppuccin" alt="rathdevtech's GitHub streak" height="195" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rathdevtech&layout=compact&theme=catppuccin&langs_count=8" alt="rathdevtech's Top Languages" width="80%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/rathdevtech">
+    <img src="https://github-stats-extended.vercel.app/api?username=rathdevtech&show_icons=true&theme=catppuccin&count_private=true" alt="rathdevtech's GitHub stats" height="195" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rathdevtech">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathdevtech&theme=catppuccin" alt="rathdevtech's GitHub streak" height="195" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rathdevtech">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rathdevtech&layout=compact&theme=catppuccin&langs_count=8" alt="rathdevtech's Top Languages" width="380" />
+  </a>
+</p>
 
 ---
 
