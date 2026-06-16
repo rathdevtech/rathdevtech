@@ -22,8 +22,6 @@
   <tr>
     <td width="30%" align="center" valign="top">
       <img src="profile.jpg" width="100%" style="border-radius: 12px; border: 2px solid #cba6f7;" alt="Sarath Orn" />
-      <br/><br/>
-      <img src="https://github.com/ABSphreak/ABSphreak/raw/master/play.gif" width="85%" style="border-radius: 10px;" alt="Developer GIF" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
       <blockquote>
