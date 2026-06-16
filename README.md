@@ -20,7 +20,10 @@
 
 <table border="0">
   <tr>
-    <td width="65%" valign="top">
+    <td width="25%" align="center" valign="middle">
+      <img src="profile.jpg" width="100%" style="border-radius: 10px;" alt="Sarath Orn" />
+    </td>
+    <td width="55%" valign="top">
       <p>Hello! My name is <b>Sarath Orn (Rath KH)</b>. I am a 22-year-old Information Technology major and software developer currently living in Phnom Penh City (originally from Siem Reap province), Cambodia.</p>
       <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
       <ul>
@@ -30,8 +33,8 @@
         <li>⚡ <b>Fun Fact:</b> I turn ideas into automated scripts before they have a chance to become manual work.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="profile.jpg" width="100%" style="border-radius: 10px;" alt="Sarath Orn" />
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/ABSphreak/ABSphreak/raw/master/play.gif" width="100%" alt="Developer GIF" />
     </td>
   </tr>
 </table>
