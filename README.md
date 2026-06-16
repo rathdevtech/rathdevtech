@@ -24,10 +24,12 @@
       <img src="profile.jpg" width="100%" style="border-radius: 12px; border: 2px solid #cba6f7;" alt="Sarath Orn" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
-      <h3>👋 Welcome to my digital space!</h3>
-      <p>Hello! My name is <b>Sarath Orn (Rath KH)</b>. I am a 22-year-old Information Technology major and software developer currently living in Phnom Penh City (originally from Siem Reap province), Cambodia.</p>
-      <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
-
+      <blockquote>
+        <h3 style="margin-top: 0;">👋 Welcome to my digital space!</h3>
+        <p>Hello! My name is <b>Sarath Orn (Rath KH)</b>. I am a 22-year-old Information Technology major and software developer currently living in Phnom Penh City (originally from Siem Reap province), Cambodia.</p>
+        <p>I pursued IT out of a genuine passion for building technology. My goal is to become a high-impact <b>Full-Stack Developer</b>, specializing in backend architectures, custom ERP systems, and modern web application development.</p>
+      </blockquote>
+      
       <h4>🚀 Quick Overview</h4>
       <ul>
         <li>🏫 <b>Education:</b> Majoring in Information Technology in Phnom Penh City.</li>
