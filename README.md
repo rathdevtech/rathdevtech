@@ -77,71 +77,54 @@
   <img src="https://img.shields.io/badge/Joined-May%202026-cba6f7?style=flat-square&labelColor=313244&color=cba6f7&logo=github&logoColor=cba6f7" alt="Joined Date" />
 </p>
 
+### 🐍 Contribution Arena
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rathdevtech/rathdevtech/output/github-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+</p>
+
 ### 🎯 Official GitHub Achievements Quest
 
 Here is a checklist of the official GitHub achievements I am working towards unlocking on my profile:
 
 <table align="center" width="100%">
-  <thead>
-    <tr>
-      <th align="center" width="15%">Badge</th>
-      <th align="left" width="25%">Achievement</th>
-      <th align="left" width="45%">Quest Description</th>
-      <th align="center" width="15%">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.png" width="45" alt="Pull Shark" />
-      </td>
-      <td><strong>Pull Shark</strong></td>
-      <td>Merge pull requests in any repository (starts at 2 PRs)</td>
-      <td align="center">
-        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.png" width="45" alt="YOLO" />
-      </td>
-      <td><strong>YOLO</strong></td>
-      <td>Merge a pull request without code review</td>
-      <td align="center">
-        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/badge/quickdraw-default.png" width="45" alt="Quickdraw" />
-      </td>
-      <td><strong>Quickdraw</strong></td>
-      <td>Close an issue or PR within 5 minutes of opening</td>
-      <td align="center">
-        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/badge/starstruck-default.png" width="45" alt="Starstruck" />
-      </td>
-      <td><strong>Starstruck</strong></td>
-      <td>Have a repository that reaches 16 stars</td>
-      <td align="center">
-        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/badge/pair-extraordinaire-default.png" width="45" alt="Pair Extraordinaire" />
-      </td>
-      <td><strong>Pair Extraordinaire</strong></td>
-      <td>Co-author a commit with another contributor</td>
-      <td align="center">
-        <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.png" width="60" alt="Pull Shark" /><br/>
+      <strong>Pull Shark</strong><br/>
+      <small>Merge a pull request</small><br/>
+      <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.png" width="60" alt="YOLO" /><br/>
+      <strong>YOLO</strong><br/>
+      <small>Merge without review</small><br/>
+      <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.githubassets.com/images/modules/profile/badge/quickdraw-default.png" width="60" alt="Quickdraw" /><br/>
+      <strong>Quickdraw</strong><br/>
+      <small>Close PR/Issue in 5m</small><br/>
+      <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.githubassets.com/images/modules/profile/badge/starstruck-default.png" width="60" alt="Starstruck" /><br/>
+      <strong>Starstruck</strong><br/>
+      <small>Get 16 repository stars</small><br/>
+      <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.githubassets.com/images/modules/profile/badge/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" /><br/>
+      <strong>Pair Extraordinaire</strong><br/>
+      <small>Co-author a commit</small><br/>
+      <a href="https://github.com/rathdevtech"><img src="https://img.shields.io/badge/Status-In%20Progress-fab387?style=flat-square&labelColor=313244" alt="In Progress" /></a>
+    </td>
+    <td align="center" width="33%">
+      <!-- Empty space to align the bottom row -->
+    </td>
+  </tr>
 </table>
 
 ---
