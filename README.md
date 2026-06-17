@@ -165,5 +165,5 @@ Here is a checklist of the official GitHub achievements I am working towards unl
 ---
 
 <p align="right">
-  <sub><i>Design crafted with ✨ and 💜 by Antigravity</i></sub>
+
 </p>
